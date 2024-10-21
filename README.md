@@ -74,4 +74,4 @@
         document.getElementById('days').innerText = difference;
     </script>
 </body>
-</html>
+</html
